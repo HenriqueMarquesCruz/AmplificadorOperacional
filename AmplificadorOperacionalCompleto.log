@@ -1,0 +1,15 @@
+LTspice 24.1.10 for Windows
+Circuit: C:\users\theofc\Documents\UFMG\ELT2\AmplificadorOperacional\AmplificadorOperacionalCompleto.net
+Start Time: Tue Nov 18 12:44:20 2025
+solver = Normal
+Maximum thread count: 12
+tnom = 27
+temp = 27
+method = trap
+Direct Newton iteration for .op point succeeded.
+Total elapsed time: 0.088 seconds.
+
+Files loaded:
+C:\users\theofc\Documents\UFMG\ELT2\AmplificadorOperacional\AmplificadorOperacionalCompleto.net
+C:\users\theofc\AppData\Local\LTspice\lib\cmp\standard.bjt
+
